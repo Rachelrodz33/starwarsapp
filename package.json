@@ -12,6 +12,8 @@
     "start": "node server.js",
     "watch": "nodemon server.js"
   },
-  "author": "",
+  "author": "Rachel",
   "license": "ISC"
 }
+
+
